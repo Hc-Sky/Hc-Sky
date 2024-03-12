@@ -55,6 +55,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hc-Sky&show_icons=true&theme=tokyonight" alt="stats">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hc-Sky&layout=donut-vertical
+  " alt="Languages">
+</p>
 
 ![ so cool!](https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg )
 

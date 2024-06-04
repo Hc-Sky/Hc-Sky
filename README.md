@@ -9,6 +9,20 @@
 
 <hr>
 
+<h3 align="center">Soft Skills</h3>
+<p align="center">
+  <samp>
+      Problem-Solving <br>
+      Team Collaboration <br>
+      Effective Communication <br>
+      Time Management <br>
+      Adaptability <br>
+      Continuous Learning
+  </samp>
+</p>
+
+<hr>
+
 <h4 align="center">What do I use ?</h4>
 <p align="center"> 
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ Idea" />

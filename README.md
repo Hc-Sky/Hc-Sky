@@ -75,7 +75,7 @@
   <samp>
     🎯 <strong>Alternance @ CSI (Cash Systèmes Industrie)</strong><br>
     Intégration de workflows — conception, refactorisation, et maintenance sur base MongoDB/Java.<br><br>
-    🎮 <strong>SAE - Studio Kakou (Jeu vidéo Unity)</strong><br>
+    🎮 <strong>SAE - Studio Kakou (Jeu vidéo dévelloper en JAVA dans le cadre d'une SAE)</strong><br>
     Création d’un jeu multijoueur de stratégie temps réel dans un studio fictif avec backlog, gestion de sprint, Trello, Git...<br><br>
     🧠 <strong>TP IA & Jeux (Ms. PacMan)</strong><br>
     Apprentissage automatique avec réseaux de neurones (Encog), propagation résiliente, tests contre différents agents IA.<br><br>

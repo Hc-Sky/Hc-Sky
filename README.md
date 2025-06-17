@@ -75,19 +75,16 @@
   <samp>
     🎯 <strong>Alternance @ CSI (Cash Systèmes Industrie)</strong><br>
     Intégration de workflows — conception, refactorisation, et maintenance sur base MongoDB/Java.<br><br>
-
     🎮 <strong>SAE - Studio Kakou (Jeu vidéo Unity)</strong><br>
     Création d’un jeu multijoueur de stratégie temps réel dans un studio fictif avec backlog, gestion de sprint, Trello, Git...<br><br>
-
     🧠 <strong>TP IA & Jeux (Ms. PacMan)</strong><br>
     Apprentissage automatique avec réseaux de neurones (Encog), propagation résiliente, tests contre différents agents IA.<br><br>
-
     📦 <strong>SAE Réseau & Docker</strong><br>
     Déploiement d’architectures microservices et simulation d’environnements réseau avec règles NAT/iptables dans des VM et containers Docker.<br><br>
-
     📂 <strong>SAE Gestion de Projet</strong><br>
     Rédaction de cahiers des charges, planification, rétrospective, suivi d’équipe — passion pour la gestion de projet et le pilotage d’équipe.
   </samp>
+
 </p>
 
 <hr>
